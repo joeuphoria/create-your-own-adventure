@@ -6,4 +6,4 @@ Do you:
 
 [Wake to consciousness](create-your-own-adventure/english)
 
-[Never come out of the meditative trance-like state that has consumed you](create-your-own-adventure/mind-melter/give-up-rest/trance/consumed-by-trance.md)
+[Never come out of the meditative trance-like state that has consumed you](give-up-rest/consumed-by-trance.md)
