@@ -46,4 +46,4 @@ https://www.youtube.com/watch?v=CmXIIL2tmR8
 
 Do you:
 
-[Give up and rest] (create-your-own-adventure/english/adrenaritalin/give-up-rest.md)
+[Give up and rest] (create-your-own-adventure/english/adrenaritalin/rest.md)
