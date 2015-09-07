@@ -22,7 +22,7 @@ Awareness kicks you in the teeth as you realize that the
 
 mallow is pulsating! Lips buzzing, chest thumping, tensions
 
-fills your fibers as you reach to to the sticky surface.
+fills your fibers as you reach out to the sticky surface.
 
 Quickly, you poke at the substance and retract back. Nothing.
 
