@@ -46,4 +46,4 @@ https://www.youtube.com/watch?v=CmXIIL2tmR8
 
 Do you:
 
-[Give up and rest](give-up-rest/rest.md)
+[Give up and rest](mind-melter/rest.md)
