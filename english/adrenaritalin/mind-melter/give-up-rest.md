@@ -1,4 +1,6 @@
-You sulk in replaying what is happening in your mind. Spinning, spinning, further into helplessness...
+You sulk in replaying what is happening in your mind.
+
+Spinning, spinning, further into helplessness...
 
 Do you:
 
